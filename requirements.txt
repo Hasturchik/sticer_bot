@@ -1,0 +1,11 @@
+pyTelegramBotAPI
+opencv-python
+aiohttp
+requests
+apify-client
+replicate
+<<<<<<< HEAD
+aiofiles
+=======
+libgl1-mesa-glx
+>>>>>>> 1540e0b0783f9a5ecf083c114718446eee683055
